@@ -1,4 +1,4 @@
-<h1 align="center">Kamusta Kaibigan I'm Sean Fernandez</h1>
+<h1 align="center">Beysic na araw nanaman I'm Sean Fernandez</h1>
 <h3 align="center">Lazy ass dude</h3>
 
 - 🔭 I’m currently Studying at [Quezon City University](https://qcu.edu.ph/)
