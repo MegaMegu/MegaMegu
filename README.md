@@ -15,13 +15,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false" width="400px" height="250px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false" width="400px"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="400px" height="250px"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="400px"/>
     </td>
   </tr>
-  
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="400px"/>
