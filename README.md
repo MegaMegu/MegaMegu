@@ -22,10 +22,7 @@
     </td>
   </tr>
 </table>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="400px"/>
-
-
 
 ### 🔝 Top Contributed Repo
 <p align="center">
