@@ -15,11 +15,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400px"/>
 </p>
-  <br/>
 <p align="right">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="400px"/>
 </p>
-  <br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
 </p>
