@@ -42,10 +42,10 @@
   </tr>
 </table>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="800px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="700px"/>
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SeanMegusean&limit=5&theme=dark&combine_all_yearly_contributions=true" width="800px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SeanMegusean&limit=5&theme=dark&combine_all_yearly_contributions=true" width="700px"/>
 </p>
