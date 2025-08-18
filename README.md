@@ -38,10 +38,8 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="500px"/>
 <p>   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="700px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="500px"/>
 </p>
-
-### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SeanMegusean&limit=5&theme=dark&combine_all_yearly_contributions=true" width="700px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SeanMegusean&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500px"/>
 </p>
