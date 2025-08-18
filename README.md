@@ -31,16 +31,12 @@
 
 
 # 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="400px"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500px">
+</p>
+<p align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="500px"/>
+<p>   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="700px"/>
 </p>
