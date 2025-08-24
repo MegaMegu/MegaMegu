@@ -11,29 +11,19 @@
 # 💻 Tech Stack
 
 ### 🌐 Frontend
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,apache,vercel,nodejs" />
-</p>
+  <img src="https://skillicons.dev/icons?i=php,java,vercel,nodejs" />
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
-</p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🎨 Design & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,ps" />
-</p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
 
 ### 🛠️ DevOps & Version Control
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
 
 
 # 📊 GitHub Stats:
