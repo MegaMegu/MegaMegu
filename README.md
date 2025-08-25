@@ -1,5 +1,5 @@
 <h1 align="center">Kumusta! 👋 I'm Sean Fernandez🤖👾</h1>
-<h3 align="center">Sean's World</h3>
+<h3 align="center">-- --- -. . -.-- / - .-. . . ...</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e9c659d-40b6-4bab-8141-69d397f446c6" alt="animated" width="300px"/>
@@ -10,19 +10,14 @@
 
 # 💻 Tech Stack
 
-### 🌐 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
-### ⚙️ Backend
   <img src="https://skillicons.dev/icons?i=php,java,vercel,nodejs" />
 
-### 🗄️ Databases
   <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🎨 Design & Tools
   <img src="https://skillicons.dev/icons?i=figma,ps" />
 
-### 🛠️ DevOps & Version Control
   <img src="https://skillicons.dev/icons?i=git,github" />
 
 
