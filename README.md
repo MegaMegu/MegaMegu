@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e9c659d-40b6-4bab-8141-69d397f446c6" alt="animated" width="300px"/>
+  <img src="https://profile-counter.glitch.me/SeanMegusean/count.svg" alt="Visitor Count"/>
 </p>
 
 # 📊 GitHub Stats:
