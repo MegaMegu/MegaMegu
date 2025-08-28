@@ -21,8 +21,14 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SeanMegusean/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=SeanMegusean&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/SeanMegusean/visits" alt="Visitor Count"/>
+</p>
+
+
 
 # 📊 GitHub Stats:
 <p align="center">
