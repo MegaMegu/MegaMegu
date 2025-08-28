@@ -20,6 +20,7 @@
 
   <img src="https://skillicons.dev/icons?i=git,github" />
 
+Visitor Count](https://profile-counter.glitch.me/{SeanMegusean}/count.svg)
 
 # 📊 GitHub Stats:
 <p align="center">
