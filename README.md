@@ -32,14 +32,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SeanMegusean&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500px">
+      <img src="https://github-readme-stats.vercel.app/api?username=MegaMegu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500px">
 </p>
 <p align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=SeanMegusean&theme=dark&hide_border=false" width="500px"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=MegaMegu&theme=dark&hide_border=false" width="500px"/>
 <p>   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMegusean&theme=dark&hide_border=false&layout=compact" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaMegu&theme=dark&hide_border=false&layout=compact" width="500px"/>
 </p>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SeanMegusean&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=MegaMegu&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500px"/>
 </p>
