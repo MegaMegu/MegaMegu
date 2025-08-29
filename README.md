@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/SeanMegusean/visits" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/MegaMegu/visits" alt="Visitor Count"/>
 </p>
 
 
