@@ -1,5 +1,5 @@
 <h1 align="center">Kumusta! 👋 I'm Sean Fernandez🤖👾</h1>
-<h3 align="center">be back soon</h3>
+<h3 align="center">22o</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e9c659d-40b6-4bab-8141-69d397f446c6" alt="animated" width="300px"/>
